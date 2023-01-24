@@ -1,3 +1,4 @@
+import "./styles/NavBar.css"
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome"
 import {faBars}from "@fortawesome/free-solid-svg-icons"
 import CartWidget from "./CartWidget"
@@ -12,7 +13,7 @@ const NavBar = ({background}) =>{
         <div className="header-container">
         {/*Boton de menu */}
             <div className="menu-button" >
-                <FontAwesomeIcon icon={faBars} size="lg" color="white"/>
+                <FontAwesomeIcon icon={faBars} size="lg" color="black"/>
                 <small>Menu</small>
             </div> 
            {/*Links de navegacion */} 
