@@ -1,0 +1,23 @@
+
+.productCard{
+    list-style: none;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.productImage{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: blanchedalmond;
+}
+
+@media (max-width:560px){
+
+ .productImage{
+     width: 90%;
+     height: auto;
+ }
+    
+}
+

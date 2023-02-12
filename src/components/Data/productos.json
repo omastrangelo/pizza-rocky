@@ -1,0 +1,75 @@
+[
+    {
+      "backdrop_path": "/hJuDvwzS0SPlsE6MNFOpznQltDZ.jpg",
+      "id": 1,
+      "original_title": "Roquefort y Cebolla",
+      "overview": "Pizza casera con queso roquefort, cebolla y aceitunas negras",
+      "image": "/roque-y-cebolla-2-scaled.jpg",
+      "title": "Pizza de Roquefort y Cebolla",
+      "price": "$1000"
+    },
+    {
+        "backdrop_path": "/hJuDvwzS0SPlsE6MNFOpznQltDZ.jpg",
+        "id": 2,
+        "original_title": "Pizza de Panceta y Huevo",
+        "overview": "Pizza casera con panceta y huevos de campo",
+        "image": "/panceta-y-huevo-scaled.jpg",
+        "title": "Pizza de Panceta y Huevo",
+        "price": "$1200"
+      },
+      {
+        "backdrop_path": "/hJuDvwzS0SPlsE6MNFOpznQltDZ.jpg",
+        "id": 3,
+        "original_title": "Pizza de Palmitos",
+        "overview": "Pizza casera con salsa, muzzarella, rodajas de tomate y ajo ",
+        "image": "/palmitos-1-scaled.jpg",
+        "title": "Pizza de Palmitos",
+        "price": "$1500"
+      },
+      {
+        "backdrop_path": "/hJuDvwzS0SPlsE6MNFOpznQltDZ.jpg",
+        "id": 4,
+        "original_title": "Pizza de Anchoas",
+        "overview": "Pizza casera con queso muzzarella y anchoas frescas",
+        "image": "/lPsD10PP4rgUGiGR4CCXA6iY0QQ.jpg",
+        "title": "Pizza de Anchoas",
+        "price": "$1350"
+      },
+      {
+        "backdrop_path": "/hJuDvwzS0SPlsE6MNFOpznQltDZ.jpg",
+        "id": 5,
+        "original_title": "Pizza de pollo al verdeo",
+        "overview": "Pizza casera con pollo desmenuzado salsa de verdeo y aceitunas negras",
+        "image": "/pollo-con-verdeo-scaled.jpg",
+        "title": "Pizza de pollo al verdeo",
+        "price": "$1800"
+      },
+      {
+        "backdrop_path": "/hJuDvwzS0SPlsE6MNFOpznQltDZ.jpg",
+        "id": 6,
+        "original_title": "Pizza de rúcula y crudo",
+        "overview": "Pizza casera con rúcula fresca y jamon crudo importado",
+        "image": "/rucula-scaled.jpg",
+        "title": "Pizza de rúcula y crudo",
+        "price": "$1700"
+      },
+      {
+        "backdrop_path": "/hJuDvwzS0SPlsE6MNFOpznQltDZ.jpg",
+        "id": 7,
+        "original_title": "Empanada de carne",
+        "overview": "Empanada de carne de vaca",
+        "image": "/02_-carne-cortada-a-cuchillo-scaled.jpg",
+        "title": "Empanada de carne",
+        "price": "$100"
+      },
+      {
+        "backdrop_path": "/hJuDvwzS0SPlsE6MNFOpznQltDZ.jpg",
+        "id": 8,
+        "original_title": "Empanada de pollo",
+        "overview": "Empanada de pollo desmenuzado",
+        "image": "/05_-pollo-con-verdeo-scaled.jpg",
+        "title": "Empanada de pollo",
+        "price": "$100"
+      }
+    
+  ]

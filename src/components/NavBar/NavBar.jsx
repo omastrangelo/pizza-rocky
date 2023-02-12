@@ -1,7 +1,7 @@
-import "./styles/NavBar.css"
+import "../NavBar/NavBar.css"
 import {FontAwesomeIcon} from "@fortawesome/react-fontawesome"
 import {faBars}from "@fortawesome/free-solid-svg-icons"
-import CartWidget from "./CartWidget"
+import CartWidget from "../CartWidget/CartWidget"
 
 const NavBar = ({background}) =>{
     /*const Logo =*/
