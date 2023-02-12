@@ -31,6 +31,7 @@ const NavBar = ({background}) =>{
                    <li>
                        <a href="/">Contactanos</a>
                    </li>
+                   <li><CartWidget/></li>
                </ul>
            </nav>
            <div className="logo-container">
@@ -40,9 +41,6 @@ const NavBar = ({background}) =>{
 
         </div>
         {/*cart-widget */}
-        <div>
-            <CartWidget/>
-        </div>
         </header>
 
 

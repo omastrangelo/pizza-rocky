@@ -2,6 +2,7 @@
     position: absolute;
     width: 100%;
   }
+
   .header-container {
     display: grid;
     /* grid-template: 1fr / 1fr 1fr 1fr; */
@@ -46,7 +47,7 @@
   
   .nav-container li a {
     text-decoration: none;
-    color: black;
+    color: aliceblue;
     font-weight: 500;
     font-size: 18px;
   }
