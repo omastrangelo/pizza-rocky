@@ -1,6 +1,8 @@
 import "./ProductosCard.css"
 import { Counter } from "../Counter"
-import Button from 'react-bootstrap/Button';
+import Button from 'react-bootstrap/Button'
+import { Link } from "react-router-dom"
+
 
 export function ProductosCard({producto}){
 
@@ -12,7 +14,8 @@ export function ProductosCard({producto}){
             <div>{producto.title}</div>
             <img className="productImage" src={imgUrl} alt="" />
             <Counter/>
-           <Button size="lg" variant="primary">Detalle</Button>
+           <Link to={`/Productos/${producto.id}`}><Button size="lg" variant="primary">Detalle</Button></Link>
+           
 
         </li>
 
