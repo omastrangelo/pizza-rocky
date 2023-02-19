@@ -24,13 +24,13 @@ const NavBar = ({background}) =>{
                <ul className="nav-container">
                    <li className="products-item"><Link to={`/`}>Inicio</Link></li>
                    <li>
-                       <a href="/">Productos <span className="arrow"></span></a>
+                   <Link to="/Productos">Productos</Link>
+                   </li>
+                    <li> 
+                   <Link cl to="/Conocenos">Conocenos</Link>
                    </li>
                    <li>
-                       <a href="/">Conocenos</a>
-                   </li>
-                   <li>
-                       <a href="/">Contactanos</a>
+                   <Link to="/Contactanos">Contactanos</Link>
                    </li>
                    <li><CartWidget/></li>
                </ul>
