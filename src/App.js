@@ -5,6 +5,8 @@ import Hero from './components/Hero/Hero';
 import ItemListContainer from './components/ItemListContainer/ItemListContainer'
 import {ProductosGrid} from "./components/ProductosGrid/ProductosGrid"
 import { BrowserRouter,Routes,Route } from "react-router-dom";
+import Conocenos from './components/Conocenos';
+import Contactanos from './components/Contactanos';
 
 
 
@@ -16,8 +18,8 @@ function App() {
 <Hero title="Pizza Rocky"/>
 <ItemListContainer greeting="Lista de productos"/>
 <Routes>
-  <Route/>
-  <Route/>
+  <Route path='/Conocenos' component={<Conocenos/>}/>
+  <Route path='/Contactanos' component={<Contactanos/>}/>
   <Route/>
 </Routes>
 <ProductosGrid/>
